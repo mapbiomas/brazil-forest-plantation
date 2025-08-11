@@ -1,7 +1,7 @@
 
 <div>
     <img src='./assets/logo.png' height='auto' width='200' align='right'>
-    <h1>MapBiomas Brazil Agriculture</h1>
+    <h1>MapBiomas Brazil Forest Plantation</h1>
 </div>
 
 Developed by ***Remap Geotecnologia Ltda***.
